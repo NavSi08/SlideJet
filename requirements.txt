@@ -1,0 +1,7 @@
+streamlit
+PyYAML
+Pillow
+img2pdf
+markdown
+deep-translator
+reportlab

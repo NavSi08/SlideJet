@@ -1,0 +1,24 @@
+# SlideJet configuration file
+#
+#SlideJet_local/
+#│
+#├── slidejet_present.py
+#├── slidejet_config.yaml
+#├── slides (or other user-defined name)/
+#│   └── presentation_folder(typically the name of the PPTX file)/
+#│       └── slide_data.json
+#│       └── images_folder/
+#│           └── slide_1.png
+#│           └── slide_2.png
+#
+#
+# Folder containing your slide_data.json
+presentation_folder: slides/SlideJet_Overview
+
+# Folder containing the images referenced in slide_data.json;
+# usually slides/'presentation_folder'/images
+images_folder: slides/SlideJet_Overview/images
+
+# Header, subheader, and multipage flag
+header_text: SlideJet Presentation
+subheader_text: Overview and Demo
