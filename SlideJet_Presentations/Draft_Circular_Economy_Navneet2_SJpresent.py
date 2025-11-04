@@ -24,7 +24,7 @@ st.set_page_config(page_title="SlideJet - Present", page_icon="🚀")
 
 # --- Default YAML path, use / ---
 #DEFAULT_YAML = "example.yaml"
-DEFAULT_YAML = "SlideJet_Presentations/Draft_Circular_Economy_Navneet2_SJconfig.yaml"
+DEFAULT_YAML = "Draft_Circular_Economy_Navneet2_SJconfig.yaml"
 
 # --- Proxy ID --- This should be
 # an unique ID if the app is used
